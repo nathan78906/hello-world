@@ -1,6 +1,2 @@
 # hello-world
-A test repository.
-
-Hello there
-
-Im nathan.
+Nathan Seebarran GitHub
